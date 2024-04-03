@@ -1,0 +1,2 @@
+# tech-js
+technical que 
